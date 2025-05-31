@@ -31,7 +31,7 @@ import {
 
 // 插件的命名空间，与 manifest.json 中的文件夹名称一致
 const PLUGIN_ID = 'kaka2';
-const PLUGIN_NAME = 'ST截图 (html-to-image)'; // 更新插件名以区分
+const PLUGIN_NAME = 'AKA截图2.0'; // 更新插件名以区分
 
 // 插件的默认设置
 const defaultSettings = {
